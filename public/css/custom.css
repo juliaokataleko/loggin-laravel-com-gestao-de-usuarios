@@ -1,0 +1,26 @@
+@import'../plugins/fontawesome/css/all.css';
+
+body {
+    background-color: #205b9e;
+    background-color: rgb(231, 234, 236);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 950px;
+}
+
+input[type='text'],
+input[type='email'],
+input[type='radio'],
+input[type='checkbox'],
+input[type='password'], select {
+    border: 3px solid #218c74;
+    line-height: 4em !important;
+    border-radius: 3px;
+}
+
+.border {
+    border: 3px solid #ddd;
+}
