@@ -12,8 +12,10 @@ Para Instalar este sistema e usar ou desenvolver uma aplicação emcima precisa 
 ### Ter o PHP 7.3 ou Superior instalado em sua máquina;
 ### Ter o composer insatalado em sua máquina;
 ### Descarregar o Projecto na sua máquina;
-### No directório principal do seu projecto, abrir a linha de comandos e difitar:
+### No directório principal do seu projecto, abrir a linha de comandos e digitar:
 - composer install
+- php artisan key:generate
+- php artisan config:cache
 - php artisan migrate
 - php artisan db:seed
 
