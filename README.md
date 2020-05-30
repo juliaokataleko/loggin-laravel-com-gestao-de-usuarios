@@ -1,7 +1,7 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 
-## Sistema de Loggin em Laravel com Gestão de Usuários
+## Sistema de Login em Laravel com Gestão de Usuários
 
 Este é um sistema simples de Login que possui gestão de usuários, crud completo
 do perfil do usuário bem com a definição de níveis para cada usuário.
