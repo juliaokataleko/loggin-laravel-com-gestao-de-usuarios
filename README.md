@@ -19,5 +19,9 @@ Para Instalar este sistema e usar ou desenvolver uma aplicação emcima precisa 
 - php artisan migrate
 - php artisan db:seed
 
+## Para configurar o envio de email, deve fazer a configuração no arquivo .env
+
+Após a instalação, faça login com o username admin e senha 12345.
+
 ### Se tiver alguma dúvida pode entrar em contacto:
 <a href="http://www.kataleko.com/web/contact">Julião Kataleko, Kataleko.com</a>
